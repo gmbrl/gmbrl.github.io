@@ -58,7 +58,7 @@ export const About = () => {
               active
               data={{
                 title: "Mount Kenya University",
-                p: "Bachelors of Computer Engineering",
+                p: "Bachelors of Computer Science",
                 image: mku,
               }}
             />
